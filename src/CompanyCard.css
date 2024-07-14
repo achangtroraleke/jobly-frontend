@@ -1,0 +1,9 @@
+#company-card{
+    text-align: left;
+    border: 1px black solid;
+    padding: 2rem;
+}
+
+#company-card h5{
+    font-weight: 900;
+}
